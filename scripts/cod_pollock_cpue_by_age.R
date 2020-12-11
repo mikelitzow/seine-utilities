@@ -169,4 +169,4 @@ g <- ggplot(data) +
 print(g)
 
 ## all looks swell!
-write.csv(d4, "./data/wgoa.cod.poll.cpue.csv", row.names = F)
+write.csv(d4, "./output/wgoa.cod.poll.cpue.csv", row.names = F)
